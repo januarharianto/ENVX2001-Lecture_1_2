@@ -332,15 +332,18 @@ Evaluate the validity of existing research
 ---
 ## Assessment
 
+The latest information about assessments are found in the [Unit outline](https://sydney.edu.au/units/ENVX2001/2020-S1C-ND-CC).
+
 ```{r, echo=FALSE, message=FALSE}
 read_csv("assets/assessments.csv") %>%
   kable() %>%
   kable_styling(full_width = TRUE) 
 ```
 
-- **Reports**: one for each part of the unit (released 5pm Friday Weeks 1, 4, 7 & 10)
+- **Reports**: for Topics 1 - 6 
 - **Semi-weekly quizzes**: online multiple choice questions based on the lectures and practicals
 - **Exam**: allowed 1 A4 double-sided page of notes + provided equation sheet
+- **Presentation**: See Canvas for details
 
 
 
