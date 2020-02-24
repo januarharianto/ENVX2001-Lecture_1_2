@@ -64,9 +64,35 @@ General introduction.
 ---
 ## About me
 
-- Ecophysiologist
-- Climate Science
-- Effects of environmental change on ecosystem and biological responses
+.pull-left[
+Ecophysiologist and climate scientist
+
+![:scale 60%](assets/onetree.jpeg)
+.tiny[One Tree Island]
+
+Marine invertebrates - echinoderms
+
+![:scale 60%](assets/helio.jpg)
+.tiny[Sea urchin]
+
+
+]
+
+
+.pull-right[
+
+Driven to R by necessity (but I love it!)
+
+![:scale 70%](assets/c2heatmap.png)
+
+
+
+]
+
+
+
+
+
 
 
 
@@ -81,7 +107,7 @@ General introduction.
 
 **Lectures**
 - Check Canvas for final locations (e.g. Bosch is currently **CLOSED** due to rain damage)
-- Tuesdays, 10:00 AM
+- Tuesdays, 8:00 AM
 - Wednesdays, 9:00 AM
 --
 
