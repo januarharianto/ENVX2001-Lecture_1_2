@@ -302,55 +302,6 @@ Highest temperature is 1.5 °C above the baseline 1961-90 average.
 
 
 
-
-
-
-
-
----
-## Learning outcomes
-
-.center[
-
-![:scale 53%](assets/datasampling.png)
-
-Sample and analyse data properly
-
-]
-
-.footnote[Image source: [Instance Selection: The myth behind Data Sampling](https://towardsdatascience.com/instance-selection-the-myth-behind-data-sampling-d3556ea2e37d)]
-
-
-
-
-
-
-
-
-
-
----
-## Learning outcomes
-
-.center[
-
-![:scale 30%](assets/scientific_method.jpg)
-
-Design robust experiments
-
-]
-
-.footnote[Image source: [Underwood (1996) Experiments in Ecology, Cambridge University Press](https://www.cambridge.org/core/books/experiments-in-ecology/DCF3663D5E7C9923D19B5ECE88167780)]
-
-
-
-
-
-
-
-
-
-
 ---
 ## Learning outcomes
 
@@ -564,20 +515,11 @@ read_csv("assets/assessments.csv") %>%
 ---
 ## Learning R
 
-- [RGuide](http://www.maths.usyd.edu.au/u/UG/JM/DATA1001/r/current/guides/RGuide.html) by the School of Mathematics and Statistics - *short and sweet*
-- [R Module](https://pages.github.sydney.edu.au/januar/rguide_ole_preview/) (under development) - *new to R*
-- Lab 1 Session will re-introduce you to R, but try R before coming to the Lab!
 
-
-.center[![:scale 50%](assets/adventuretime.gif)]
+.center[![:scale 80%](assets/adventuretime.gif)]
 
 
 .footnote[Source: [Adventure Time Season 1 Ep 25](https://www.imdb.com/title/tt1748408/)]
-
-
-
-
-
 
 
 
