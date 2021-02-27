@@ -289,7 +289,7 @@ Highest temperature is 1.5 °C above the baseline 1961-90 average.
 
 ---
 ## Learning outcomes
-
+### (2-second preview...)
 - Demonstrate proficiency in designing sample schemes and analysing data from them using using R;
 - Describe and identify the basic features of an experimental design; replicate, treatment structure and blocking structure;
 - Demonstrate proficiency in the use or the statistical programming language R to apply an ANOVA and fit regression models to experimental data;
