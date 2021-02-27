@@ -372,23 +372,24 @@ Evaluate the validity of existing research
 ---
 ## Assessment
 
-The latest information about assessments are found in the [Unit outline](https://sydney.edu.au/units/ENVX2001/2020-S1C-ND-CC).
-
-```{r, echo=FALSE, message=FALSE}
-read_csv("assets/assessments.csv") %>%
-  kable() %>%
-  kable_styling(full_width = TRUE) 
-```
-
-- **Reports**: for Topics 1 - 6 
-- **Semi-weekly quizzes**: online multiple choice questions based on the lectures and practicals
-- **Exam**: allowed 1 A4 double-sided page of notes + provided equation sheet
-- **Presentation**: See Canvas for details
+.pull-left[
+- Type B final exam, **not** Type C
+- See exam types: [https://www.sydney.edu.au/students/exams/exam-types.html](https://www.sydney.edu.au/students/exams/exam-types.html)
+]
 
 
+.pull-right[
+![:scale 100%](assets/assessment.png)
+]
 
 
+---
+## Attendance
 
+- Lecture attendance is not compulsory but strongly recommended as we have very interactive classes. However, lectures will be recorded in case you cannot make it.
+- A minimum 80% attendance is required in workshops (tutorial + practical).
+- Workshop attendance is very important for groupwork as well as learning.
+- There is a strong correlation between class attendance and performance.
 
 
 
