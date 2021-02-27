@@ -714,6 +714,21 @@ kable(exps)
 ]
 
 
+---
+class: center, middle
+## See you tomorrow
+
+
+
+---
+## Welcome back
+
+
+- mean, variance, standard error
+- central limit theorem
+- confidence intervals
+
+
 
 
 
