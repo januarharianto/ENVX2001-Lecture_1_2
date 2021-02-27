@@ -720,38 +720,22 @@ class: center, middle
 
 
 
+
 ---
 ## Welcome back
 
-
-- mean, variance, standard error
-- central limit theorem
-- confidence intervals
-
-
-
-
-
-
-
-
----
-## Revision
-
-.brand-grey[
-### Designs
+### Yesterday
 
 - Sample vs. experimental designs
 
 
 
-### Revision
-]
+### Today
+
 
 - mean, variance, standard error
 - central limit theorem
 - confidence intervals
-
 
 
 
