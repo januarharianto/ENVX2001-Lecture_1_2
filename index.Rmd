@@ -20,7 +20,7 @@ output:
         scroll: false # disable slide transitions by scrolling
 ---
 
-```{r, load_refs, echo=FALSE, cache=FALSE}
+```{r, load_refs, echo=FALSE, cache=FALSE, include=FALSE}
 
 library(RefManageR)
 library(readr)
