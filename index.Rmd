@@ -422,7 +422,7 @@ Evaluate the validity of existing research
 - Practicals and Tutorials - see Canvas
 --
 
-- Drop-in session: Mondays 11 am - 1 pm, from Week 3
+- Drop-in session: Mondays 11 am - 1 pm, from Week 3, Zoom
 --
 
 - Appointments with lecturer 
@@ -443,14 +443,15 @@ Evaluate the validity of existing research
 
 
 ---
-## The past, present and future
+## Applied statistics
 
 - Core for most of you:
-  - 1st year:  Introduction to statistical methods (ENVX1002). Code shared with DATA1001
+  - 1st year:  Introduction to statistical methods (ENVX1002)
   - **2nd year: Applied statistical methods (ENVX2001) **
 - Elective
   - 2nd or 3rd year:  Statistics in the natural sciences (ENVX3002)
 
+[Open Access Symposium: Statistical concepts](https://dl.sciencesocieties.org/publications/aj/tocs/107/2#h1-SYMPOSIUM:%20STATISTICAL%20CONCEPTS)
 
 
 
