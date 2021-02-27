@@ -186,9 +186,10 @@ Australian Technology Park,
 Eveleigh, NSW 2015
 
 .blockquote[
-**! Important !** 
+**Important !** 
 
-The ATP is a 30-minute walk from Carslaw Building.
+- The ATP is a 30-minute walk from Carslaw Building.
+- We will attempt to organise a shuttle service to coincide with classes.
 ]
 
 ]
