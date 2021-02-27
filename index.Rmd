@@ -129,8 +129,9 @@ Marine invertebrates - echinoderms
 
 .pull-right[
 
-Driven to R by necessity (but I love it!)
+Rapid warming in Sydney Harbour 
 
+(Chowder Bay logger)
 ![:scale 70%](assets/c2heatmap.png)
 
 
