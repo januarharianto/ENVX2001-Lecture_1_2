@@ -43,11 +43,14 @@ options(knitr.kable.NA = '')
 
 ## Introduction
 
-- Coordinator - Floris van Ogtrop; [floris.vanogtrop@sydney.edu.au](mailto:floris.vanogtrop@sydney.edu.au)
-- **Januar Harianto** - Lecturer for Topics 1, 2 & 3
+- Coordinator - **Dr. Floris van Ogtrop**; [floris.vanogtrop@sydney.edu.au](mailto:floris.vanogtrop@sydney.edu.au)
+  - Room 306, Level 3, Biomedical Building, Australian Technology Park
+  - (02) 8627 1024
+- **Dr. Januar Harianto** - Lecturer for Topics 1, 2 & 3
   - [januar.harianto@sydney.edu.au](mailto:januar.harianto@sydney.edu.au)
-  - [thomas.bishop@sydney.edu.au](mailto:thomas.bishop@sydney.edu.au)
-- Additional contact details on Canvas
+- **Dr. Aaron Greenville**
+- **Dr. Liana Pozza**
+- **Assoc. Prof. Mathew Crowther**
 
 ???
 General introduction.
